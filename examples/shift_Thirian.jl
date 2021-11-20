@@ -1,8 +1,9 @@
 # package up, and have a coordiante transform from shift,a,b to u,1,length(s).
 
 
-include("../src/FractionalDelayFilters.jl")
-import .FractionalDelayFilters
+#include("../src/FractionalDelayFilters.jl")
+#import .FractionalDelayFilters
+import FractionalDelayFilters
 
 
 using LinearAlgebra
